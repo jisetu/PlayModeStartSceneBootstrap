@@ -1,0 +1,16 @@
+{
+    "name": "Jisetu.Editor.PlayModeStartSceneBootstrap",
+    "rootNamespace": "Jisetu.Editor.PlayModeStartSceneBootstrap",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

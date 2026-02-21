@@ -1,0 +1,11 @@
+{
+  "name": "com.jisetu.playmodestartscenebootstrap",
+  "version": "1.0.0",
+  "displayName": "PlayModeStartSceneBootstrap",
+  "description": "Start Play Mode from a specific scene.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Jisetu",
+    "url": "https://github.com/jisetu"
+  }
+}
